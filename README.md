@@ -1,2 +1,2 @@
 # Blockchain-Based-Distributed-Cloud-Storage-and-Its-Forensic-Aspects
-flaws in traditional cloud storage and the benefits of integrating blockchain into distributed cloud storage.
+Authored a research paper analyzing the limitations of traditional cloud storage and advocating the integration of blockchain technology for enhanced distributed cloud storage. Proposed an innovative forensic investigation methodology while emphasizing significant data security improvements achieved through blockchain implementation.
